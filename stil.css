@@ -25,7 +25,13 @@ p {
 	color:#FBFEFB;
 	
 }
-<link rel="preload" href="KristinaKukovacec.ttf" as="font" type="font/ttf" crossorigin>
+@font-face {
+  font-family: 'KristinaKukovacec';
+  src: 
+       url('KristinaKukovacec.ttf') format('truetype'),
+  font-weight: normal;
+  font-style: normal;
+}
 
 h1{    font-family: 'KristinaKukovacec';
     font-weight: normal;
