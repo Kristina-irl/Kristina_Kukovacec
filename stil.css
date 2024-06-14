@@ -25,9 +25,11 @@ p {
 	color:#FBFEFB;
 	
 }
-h1{  font-family: 'KristinaKukovacec';
-  src: url('KristinaKukovacec.ttf') format('truetype');
-	color:#5E4C5A;
+<link rel="preload" href="KristinaKukovacec.ttf" as="font" type="font/ttf" crossorigin>
+
+h1{    font-family: 'KristinaKukovacec';
+    font-weight: normal;
+    font-style: normal;
 	background-size: contain;
 	background-color:#EFE5DC;
 	padding: 20px;
