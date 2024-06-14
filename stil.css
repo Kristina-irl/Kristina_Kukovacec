@@ -25,9 +25,8 @@ p {
 	color:#FBFEFB;
 	
 }
-h1{
-	font-family: KristinaKukovacec.ttf;
-	font-size: 60px;
+h1{ font-family: F16;
+    src: url("KristinaKukovacec.ttf") format('truetype');
 	color:#5E4C5A;
 	background-size: contain;
 	background-color:#EFE5DC;
