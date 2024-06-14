@@ -26,7 +26,7 @@ p {
 	
 }
 h1{  font-family: 'KristinaKukovacec';
-  src: url('https://github.com/Kristina-irl/fccfiles/raw/main/KristinaKukovacec.ttf') format('truetype');
+  src: url('KristinaKukovacec.ttf') format('truetype');
 	color:#5E4C5A;
 	background-size: contain;
 	background-color:#EFE5DC;
